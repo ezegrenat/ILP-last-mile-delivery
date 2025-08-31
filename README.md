@@ -1,5 +1,7 @@
-# ILP-last-mile-delivery
+# last-mile-delivery
 
+This project illustrates a very basic optimization problem in the context of logistics.  
+The file **`input.txt`** provides a sample input instance, and **`problem.out`** shows the corresponding solution output.
 
 A logistics company operates with a main **Service Center (SC)** and a network of **n delivery nodes** (or *delivery cells*) to manage the last mile.
 
